@@ -961,7 +961,7 @@ video {
 
 .text-theme-color{
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgba(14, 179, 179, var(--tw-text-opacity));
 }
 
 .text-body-color{
